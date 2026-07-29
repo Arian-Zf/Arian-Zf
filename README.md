@@ -1,10 +1,10 @@
 <div align="center">
 
-
-
 # Arian Zafari
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1200&center=true&vCenter=true&width=500&color=3B82F6&lines=Backend+Developer;Django+%7C+Django+REST+Framework;Building+Scalable+Backend+Systems" alt="Typing SVG"/>
+
+<br><br>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
