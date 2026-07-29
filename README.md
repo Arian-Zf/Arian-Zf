@@ -29,17 +29,17 @@
 
 ---
 
-# 👋 About Me
+## 👋 About Me
 
 Backend Developer focused on building scalable web applications with **Django**, **Django REST Framework**, and **PostgreSQL**.
 
 I enjoy designing maintainable backend systems, writing clean code, and transforming ideas into production-ready applications.
 
-- 🎓 Final-year Software Engineering Student
+- 🎓 Incoming Master's Student, Software Engineering — Islamic Azad University, Science and Research Branch, Tehran
 - 💼 Seeking Backend / Django Developer opportunities
-- 📍 Based in Borujerd — Open to relocation (Tehran)
-- 🏅 National Elites Foundation Medal Recipient
-- 👨‍💼 Former Head of the Scientific Association
+- 📍 Tehran, Iran
+- 🏆 Member of a Top-Ranking Team — Iran's National Elites Foundation Competition
+- 👨‍💼 Former Head, Software Engineering Scientific Association — Borujerd University 
 
 **Current Interests**
 
@@ -47,14 +47,12 @@ I enjoy designing maintainable backend systems, writing clean code, and transfor
 
 ---
 
-# ✨ Highlights
+## ✨ Highlights
 
 - 🚀 Built multiple Django applications from scratch
 - 🔗 Designed RESTful APIs using Django REST Framework
 - 🐳 Dockerized backend applications
 - 🗄️ Experienced with PostgreSQL & SQL Server
-- 👨‍💼 Former Head of the Scientific Association
-- 🏅 National Elites Foundation Medal Recipient
 
 ---
 
