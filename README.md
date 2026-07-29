@@ -1,6 +1,8 @@
 <div align="center">
 
-# Arian Zafari
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Arian-Zf/Arian-Zf/main/hero.svg" width="100%"/>
+</p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1200&center=true&vCenter=true&width=500&color=3B82F6&lines=Backend+Developer;Django+%7C+Django+REST+Framework;Building+Scalable+Backend+Systems" alt="Typing SVG"/>
 
