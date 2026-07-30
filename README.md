@@ -53,6 +53,8 @@ I enjoy designing maintainable backend systems, writing clean code, and transfor
 
 - 🚀 Built multiple Django applications from scratch
 - 🔗 Designed RESTful APIs using Django REST Framework
+- 🔐 Implemented authentication & authorization systems
+- 🧪 Practiced test-driven development with unit & integration tests
 - 🐳 Dockerized backend applications
 - 🗄️ Experienced with PostgreSQL & SQL Server
 
