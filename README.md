@@ -48,14 +48,14 @@ I enjoy designing maintainable backend systems, writing clean code, and transfor
 
 # 🚀 Featured Projects
 
-| Project | Description | Status |
-|---------|-------------|--------|
-| **[SocialMedia](https://github.com/Arian-Zf/SocialMedia)** | Production-style social media platform featuring authentication, real-time messaging, REST APIs, AJAX interactions, follow system, tagging, and PostgreSQL. | ✅ Complete |
-| **[Blog](https://github.com/Arian-Zf/Blog)** | CMS platform with authentication, image uploads, custom admin features, responsive UI, and clean architecture. | ✅ Complete |
-| **[Shop](https://github.com/Arian-Zf/Shop)** | E-commerce backend with product management, orders, authentication, and payment workflow. | 🚧 In Progress |
-| **[Advanced-Blog](https://github.com/Arian-Zf/Advanced-Blog)** | Advanced blog platform built with Docker, Django REST Framework, PostgreSQL, and scalable architecture. | 🚧 In Progress |
+| **Project** | **Description** | **Status** |
+|---|---|---|
+| [**Reservia**](https://github.com/Arian-Zf/Reservia) | Beauty salon website with online appointment booking, built with Django, Tailwind CSS, React, and PostgreSQL, and containerized with Docker. | ✅ Complete |
+| [**SocialMedia**](https://github.com/Arian-Zf/SocialMedia) | Production-style social media platform featuring authentication, real-time messaging, REST APIs, AJAX interactions, follow system, tagging, and PostgreSQL. | ✅ Complete |
+| [**Blog**](https://github.com/Arian-Zf/Blog) | CMS platform with authentication, image uploads, custom admin features, responsive UI, and clean architecture. | ✅ Complete |
+| [**Shop**](https://github.com/Arian-Zf/Shop) | E-commerce backend with product management, orders, authentication, and payment workflow. | 🚧 In Progress |
+| [**Advanced-Blog**](https://github.com/Arian-Zf/Advanced-Blog) | Advanced blog platform built with Docker, Django REST Framework, PostgreSQL, and scalable architecture. | 🚧 In Progress |
 | **Drug Interaction Checker** | Python application for detecting pharmaceutical drug interactions. | ✅ Complete |
-
 ---
 
 # 📊 GitHub Activity
